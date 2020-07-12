@@ -11,6 +11,8 @@ github_username: isaqueprofeta
 # Build settings
 markdown: kramdown
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
+skin: "/assets/css/skins/dark.css"
+logo: "/assets/images/avatar.png"
 plugins:
   - jekyll-feed
 # Exclude from processing.
