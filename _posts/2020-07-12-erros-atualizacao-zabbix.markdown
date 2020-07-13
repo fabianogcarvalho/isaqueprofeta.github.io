@@ -2,7 +2,7 @@
 layout: post
 title: "Erros na atualização de versões, ou recuperação de backup de banco de dados do Zabbix"
 date: 2020-07-12 17:11:19 -0300
-categories:
+categories: zabbix update support
 ---
 
 Em resumo, é preciso executar o processo do zabbix_server após atualização ou restauração do banco de dados ANTES de acessar o Frontend PHP no browser.
